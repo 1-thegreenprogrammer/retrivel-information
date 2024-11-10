@@ -16,5 +16,6 @@ Technologies utilisées
 Installation
 
 1. Clonez ce dépôt sur votre machine locale :
-   git clone https://github.com/1-thegreenprogrammer/retrivel-information/tree/main](https://github.com/1-thegreenprogrammer/retrivel-information.git)
-2. pip install -r requirements.txt
+  git clone https://github.com/1-thegreenprogrammer/retrivel-information.git
+2.Installer les libraries nessisaires
+   pip install -r requirements.txt
